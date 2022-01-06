@@ -1,7 +1,8 @@
 body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
-    background-color:#FFFFFF
+    background-color:rgb(235, 230, 221);
+    margin: 0px
 }
 section{
     width: 80%;
@@ -112,7 +113,86 @@ span{
 }
 .develop-text-part button{
     padding: 15px 50px;
-    font-size: 20px;
+    color: white;
+    background-color: #FF5959;
+    border:none;
+    border-radius: 20px;
+}
+.community-part{
+    display: flex;
+    margin-top:90px;
+    
+
+}
+.community-text-part{
+    width: 50%;
+}
+.community-img-part{
+    width: 50%;
+}
+.community-text-part button{
+    padding: 15px 50px;
+    color: white;
+    background-color: #FF5959;
+    border:none;
+    border-radius: 20px;
+}
+.community-text-part h1{
+    font-size:40px;
+    font-weight:700;
+    color: #000000;
+}
+.community-img-part img{
+    width: 70%;
+    height:80%;
+    margin-left:200px;
+    border-radius:20px;
+    margin-bottom: 0px
+}
+footer{
+    text-align: center;
+    background-color: #13103A;
+    height:150px;
+    
+}
+footer h1{
+    padding-top: 40px;
+    color: #ffff;
+}
+footer p{
+    color: #ffff;
+}
+#year-for-mission{
+    color:#FF5959
+}
+.future-plan{
+    background-color:rgb(240, 239, 236)
+    
+}
+h1{
+    text-align: center;
+}
+.future-plan-allPart{
+    
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+}
+.future-plan-part-text{
+    width: 40%;
+    padding-top:50px
+}
+.future-plan-part-img{
+    width: 60%;
+}
+.future-plan-part-img img{
+    width: 80%;
+    border-radius:20px;
+}
+.future-plan-part-text button{
+    padding: 15px 50px;
+    color: white;
     background-color: #FF5959;
     border:none;
     border-radius: 20px;
