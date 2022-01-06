@@ -169,8 +169,12 @@ footer p{
     background-color:rgb(240, 239, 236)
     
 }
-h1{
+.future-plan h1{
+    padding-top:30px;
     text-align: center;
+    font-size:50px;
+    color:#896745
+
 }
 .future-plan-allPart{
     
